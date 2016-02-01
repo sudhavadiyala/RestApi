@@ -8,8 +8,9 @@ public class Reservation
    private String date;
    private String time;
    
-   // comments
-// comments
+   
+// comments for the Model class 
+// comments for the Model class
    
 public String getTime() {
 	return time;

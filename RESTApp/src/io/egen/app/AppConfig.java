@@ -11,5 +11,6 @@ public class AppConfig extends ResourceConfig {
 		packages("io.egen");
 	}
 	
-	// comments
+	// Comments for modification
+	// Comments for modification
 }
