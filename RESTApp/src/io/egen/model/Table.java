@@ -1,5 +1,7 @@
 package io.egen.model;
 
+//comments for the Model class
+
 public class Table 
 {
     private String tablenum;

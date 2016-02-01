@@ -10,6 +10,7 @@ public class Reservation
    
    
 // comments for the Model class 
+// comments for the Model class
    
 public String getTime() {
 	return time;
